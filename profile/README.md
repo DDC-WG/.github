@@ -7,3 +7,4 @@ It is starting from within the IPFS and Filecoin ecosystem, but participants fro
 * Introduce yourself in the [GitHub discussions](https://github.com/orgs/DDC-WG/discussions)
 * Join the Slack channel in the public [Filecoin Slack](https://filecoin.io/slack) which is [#decent-data-compliance-wg](https://filecoinproject.slack.com/archives/C04ND9YSQCS)
 * Check the calendar to join upcoming working group meetings https://lu.ma/ddc-wg
+* Check out the running [meeting minutes document](https://github.com/DDC-WG/discuss/blob/main/meetings.md), [shared notes document](https://github.com/DDC-WG/discuss/blob/main/shared_notes.md), and any other documents you may find in the `/discuss` repo
